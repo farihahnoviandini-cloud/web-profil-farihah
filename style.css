@@ -7,11 +7,10 @@
 
 body {
     font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f6f9; /* Abu-abu lembut yang nyaman di mata */
+    background-color: #a0a3a8; /* Abu-abu lembut yang nyaman di mata */
     color: #333333;           /* Teks abu gelap, bukan hitam pekat */
     line-height: 1.6;
 }
-
 
 /* 2. STYLING HEADER UTAMA (PARENT ATAS) */
 .header utama {
