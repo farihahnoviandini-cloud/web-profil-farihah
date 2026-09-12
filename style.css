@@ -7,25 +7,25 @@
 
 body {
     font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #a0a3a8; /* Abu-abu lembut yang nyaman di mata */
+    background-color: #fdfeff; /* Abu-abu lembut yang nyaman di mata */
     color: #333333;           /* Teks abu gelap, bukan hitam pekat */
     line-height: 1.6;
 }
 
 /* 2. STYLING HEADER UTAMA (PARENT ATAS) */
-.header utama {
+.header-utama {
     background-color: #1e3a8a; /* Biru elegan */
-    color: #ffffff;
+    color: #1d284d; /* teks biru gelap untuk kontras */
     text-align: center;
-    padding: 30px 20px
+    padding: 30px 20px;
 }
 
-.header utama h1 {
+.header-utama h1 {
     font-size: 28px;
     margin-bottom: 8px;
 }
 
-.header utama p {
+.header-utama p {
     font-size: 16px;
     color: #cbd5e1
 }
